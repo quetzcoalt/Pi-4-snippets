@@ -5,7 +5,7 @@ GPIO.setmode(GPIO.BOARD)
 in_pin=40
 out_pin=38
 
-GPIO.setup(in_pin,GPIO.IN)
+GPIO.setup(in_pin,GPIO.IN,pull_up_down=GPIO.PUD_UP)
 GPIO.setup(out_pin,GPIO.OUT)
 
 try:
