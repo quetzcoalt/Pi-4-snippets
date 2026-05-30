@@ -17,3 +17,5 @@ These Homeworks are proposed solutions to the amazing Paul McWhorter's Raspberry
 		- When released, the LED turns off. 
 - [Lesson 7 Homework](homework/homework7.py): LED switching | [video demo](https://www.youtube.com/shorts/-krnzPGeQA8)
 	- I use a push button to change the state of the LED to be either ON or OFF.
+- [Lesson 9 Homework](homework/homework9.py): Dimmable LED with joystick | [video demo]()
+	- I use a joystick to controle the duty cycle of an LED using PWM.
